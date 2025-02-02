@@ -1,9 +1,9 @@
 # -Exploratory-Data-Analysis
-<h2>**Project Overview**</h2>
+<h2>Project Overview</h2>
 
 This project performs an Exploratory Data Analysis (EDA) on Black Friday sales data to uncover key insights into customer purchasing behavior, demographic trends, and product preferences. The findings help businesses make informed decisions on marketing strategies, customer segmentation, and inventory management.
 
-<h2>**Dataset Description**</h2>        
+<h2>Dataset Description</h2>        
 
 The dataset used for this analysis contains transaction records from Black Friday sales, including:
 
@@ -13,7 +13,7 @@ The dataset used for this analysis contains transaction records from Black Frida
 
 **Purchase Data:** Purchase amount spent by customers.
 
-<h2>**Objectives**</h2>        
+<h2>Objectives</h2>        
 
 Identify spending trends across different customer demographics.
 
@@ -23,7 +23,7 @@ Discover popular product categories and high-revenue customer segments.
 
 Provide business recommendations for targeted marketing and inventory planning.
 
-<h2>**Key Findings**</h2>        
+<h2>Key Findings</h2>        
 
 **Purchase Trends:** Most transactions fall in the ₹5,000 - ₹15,000 range, with males making higher-value purchases.
 
@@ -33,7 +33,7 @@ Provide business recommendations for targeted marketing and inventory planning.
 
 **Occupation & Marital Status:** Occupations 4 and 10 show the highest spending, while single customers make larger purchases.
 
-<h2>**Business Recommendations**</h2>        
+<h2>Business Recommendations</h2>        
 
 **Customer Targeting:** Focus marketing campaigns on high-spending age groups (18-35) and City B residents.
 
@@ -43,7 +43,7 @@ Provide business recommendations for targeted marketing and inventory planning.
 
 **Pricing Strategies:** Implement dynamic pricing based on demand fluctuations to maximize revenue.
 
-<h2>**Technologies Used**</h2>
+<h2>Technologies Used</h2>
 
 **Programming Language:** Python
 
@@ -51,6 +51,6 @@ Provide business recommendations for targeted marketing and inventory planning.
 
 **Visualization Tools:** Data visualizations using Matplotlib and Seaborn for trend analysis
 
-<h2>**Conclusion**</h2>        
+<h2>Conclusion</h2>        
 
 This analysis provides a data-driven approach to understanding Black Friday sales trends, helping businesses enhance customer engagement, optimize inventory, and increase revenue through strategic planning.**
